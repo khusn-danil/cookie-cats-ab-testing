@@ -4,7 +4,7 @@
 
 ## Стек
 * **Язык:** Python
-* **Библиотеки:** Pandas, Seaborn, Matplotlib
+* **Библиотеки:** pandas, scipy.stats, seaborn, matplotlib
 * **Инфраструктура:** Автоматическая загрузка датасета напрямую через Kaggle API (`kagglehub`)
 
 ---
